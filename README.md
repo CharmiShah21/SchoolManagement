@@ -18,6 +18,12 @@ For example Login Authentication and limitations for Admin and user accounts.
 ![Screenshot (183)](https://user-images.githubusercontent.com/65780191/88447682-eb87f100-ce03-11ea-96d5-73962f3f4c80.png)
 ![Screenshot (184)](https://user-images.githubusercontent.com/65780191/88447683-eb87f100-ce03-11ea-8020-e78235518848.png)
 
+![Screenshot (185)](https://user-images.githubusercontent.com/65780191/88448045-8d5d0d00-ce07-11ea-86b1-a04993738b81.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/65780191/88448046-8d5d0d00-ce07-11ea-9ab9-e0f0301abd19.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/65780191/88448047-8d5d0d00-ce07-11ea-9fe7-2d72776aee62.png)
+![Screenshot (188)](https://user-images.githubusercontent.com/65780191/88448048-8d5d0d00-ce07-11ea-87ab-783593cf4803.png)
+
+
 # Q-1. Authorize minimum 1 action result in a controller
 # Ans : As you login with admin account you cannot access to privacy page as it is authorized only to user account so it will show access denied.
 
